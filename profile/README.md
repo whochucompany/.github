@@ -3,7 +3,7 @@
 - 웹 뉴스레터 "Byte" 클론코딩 프로젝트
 
 # Team
-## ⚛FE
+## ⚛ FE
 ### 김예림 [FE 리드]
 - Main page UI/UX
 - Post CRUD
@@ -12,7 +12,7 @@
 - Login/Signup
 - Comment CRUD
 
-## ☢BE
+## ☢ BE
 ### 박상욱 [BE 리드]
 - 로그인/회원가입, JWT 토큰 발행
 - Logging
