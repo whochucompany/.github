@@ -26,6 +26,7 @@
 - Swagger
 ### 손원철
 - Redis 서버 구성
+   
 - Comment CRUD
 - Deployment
 ### 구자령
@@ -41,7 +42,15 @@
 - Post CRUD
 - Image upload
 - Comment CRUD
-
+- Reids 상세설명(레디스 캐싱 전략)
+   
+   우선 읽기 전략만을 사용하였으며
+   ![image](https://user-images.githubusercontent.com/108961843/186596308-bb4cbf96-840d-40c5-b5c1-f2504181f331.png)
+   1.캐시를 우선적으로 확인한다.
+   2.있으면 해당 데이터를 읽어온다.
+   3.없다면 DB에 접근해 데이터를 가지고 온 뒤에 캐시에 저장하게 한다.( Lazy Loading)
+   불가피하게 작성자가 수정 및 삭제가 발생하면 레디스 캐시도 같이 삭제가 되게끔 구현..
+  
 ## Trouble Shooting
 ### FE
 #### useform, 이미지 파일, ck에디터를 사용하여 각각 formdata에 데이터 입력이 안되는 상황.
