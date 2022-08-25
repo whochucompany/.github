@@ -77,7 +77,7 @@
 > 1. 자주변하는 값들은 캐시에 저장 X
 News 수정이 빈번하지 X >> 레디스에서 저장하고 불러옴
 
-Comment 자주 변함 >> access to Main DB
+> Comment 자주 변함 >> access to Main DB
 
 > 2. 레디스 CrudRepository 명령어 관련
 findbyId 됨
