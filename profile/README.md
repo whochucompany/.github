@@ -18,6 +18,7 @@
 
 ## ☢BE
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ### 박상욱 [BE 리드]
 - 로그인/회원가입, JWT 토큰 발행
 - Logging
