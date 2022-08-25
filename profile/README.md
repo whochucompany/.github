@@ -48,12 +48,14 @@
 > ck에디터같은 경우 useRef로 dom을 지목한 뒤, 값을 가져오고, 이미지 같은 경우 useState로 넣은 값을 가져와 form에 append 시켜줌.
 
 #### s3 배포할 때 cli 로 유저 추가한 뒤 배포 과정에서 문제가 생김.
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrsuXF%2FbtqV08o6vRd%2FYflksAddsBKG3B1srw1750%2Fimg.jpg
 > 유저 입력을 잘못했기 때문에 생긴 에러. configure --profile 다시 입력했습니다.
 
 #### 배포 후 XML 에러...
+https://trustedmedia.aisingapore.org/media/competition/2021/11/19/16372867237658966Screenshot%20from%202021-11-19%2009-49-39.png
 > ACL(액세스 제어 목록)에서 버킷 ACL 읽기 권한을 부여
 
-####(아쉬운 점) 게시글 콘텐츠를 출력할 때 태그가 입력이 되지 않고 그대로 출력되는 상황 (해결하지 못함)
+#### (아쉬운 점) 게시글 콘텐츠를 출력할 때 태그가 입력이 되지 않고 그대로 출력되는 상황 (해결하지 못함)
 >dangerouslySetInnerHTML 를 사용하면 태그를 사용하면 된다고 하지만 xxs에 관련되어있는 것 같아 좀 더 공부한 후에 사용 여부 결정... 다음에는 마크업으로 진행하고 싶음.
 
 ### BE
