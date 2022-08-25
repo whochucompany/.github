@@ -61,7 +61,7 @@
 > ck에디터같은 경우 useRef로 dom을 지목한 뒤, 값을 가져오고, 이미지 같은 경우 useState로 넣은 값을 가져와 form에 append 시켜줌
 
 #### s3 배포할 때 cli 로 유저 추가한 뒤 배포 과정에서 문제가 생김
-![image]((https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrsuXF%2FbtqV08o6vRd%2FYflksAddsBKG3B1srw1750%2Fimg.jpg)
+![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrsuXF%2FbtqV08o6vRd%2FYflksAddsBKG3B1srw1750%2Fimg.jpg)
 > 유저 입력을 잘못했기 때문에 생긴 에러. configure --profile 다시 입력했습니다.
 
 #### 배포 후 XML 에러...
