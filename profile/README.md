@@ -99,3 +99,7 @@
 > ex) news.getmember.getusername은 되지 아니함
 > 그래서 레디스 엔티티에 연관관계 없이 데이터 변수를 기입
 
+#### (아쉬운 점) 
+> 테스트 코드 작성
+> QueryDSL
+> Github Action을 이용한 무중단 배포
