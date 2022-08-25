@@ -42,6 +42,18 @@
 - Post CRUD
 - Image upload
 - Comment CRUD
+- Swagger 
+   ![image](https://user-images.githubusercontent.com/108961843/186603748-ef8ed878-32cf-48f2-b6e4-b65866d00e15.png)
+   
+   ![image](https://user-images.githubusercontent.com/108961843/186603778-2020cb11-6c2c-4b86-86ad-ed95f4a07685.png)
+
+- Logging
+
+  ![image](https://user-images.githubusercontent.com/108961843/186603840-7de9d74f-1ea8-4ddb-8477-85c86ad4f69b.png)
+  
+  ![image](https://user-images.githubusercontent.com/108961843/186603864-cd66b6f7-1b67-4fc4-a0a2-3fea90271e50.png)
+
+
 - Reids 상세설명(레디스 캐싱 전략)
    
    우선 읽기 전략만을 사용하였으며
